@@ -1,1 +1,2 @@
 Funcionalidad de potencia
+Cambios en potencia.txt
